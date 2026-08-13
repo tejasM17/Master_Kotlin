@@ -1,6 +1,6 @@
 # 🚀 MASTER KOTLIN — Day 3: Classes & Null Safety (ACCELERATED)
 
-**Session Created:** August 1, 2026  
+**Session Edited:** August 13, 2026  
 **Mode:** 🏃 FAST-TRACK (Less story, more code)  
 **Difficulty:** ⭐⭐⭐ (Intermediate)  
 **Time to Complete:** 3-4 hours  
