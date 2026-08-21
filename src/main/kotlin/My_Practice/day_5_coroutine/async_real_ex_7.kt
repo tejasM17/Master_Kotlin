@@ -1,4 +1,4 @@
-package My_Practice.day_coroutine_5
+package My_Practice.day_5_coroutine
 
 import kotlinx.coroutines.async
 import kotlinx.coroutines.delay
