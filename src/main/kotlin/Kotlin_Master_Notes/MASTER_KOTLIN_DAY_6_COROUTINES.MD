@@ -715,22 +715,4 @@ Answer out loud, then check:
 
 ---
 
-# ✅ COMPLETION CHECKLIST
-
-- [ ] I can explain a coroutine in one sentence without notes
-- [ ] I know launch vs async by heart
-- [ ] I understand structured concurrency's 3 laws
-- [ ] I know WHY cancellation needs a suspension point
-- [ ] I can pick the right Dispatcher for any task instantly
-- [ ] I know where async exceptions "hide"
-- [ ] I understand Flow is cold and needs `.collect()`
-- [ ] I know StateFlow vs SharedFlow
-- [ ] I understand what Mutex protects against
-- [ ] I ran the Final Boss project successfully
-- [ ] I passed the 9-question memory quiz without peeking
-
----
-
-**Next step:** open the updated `KOTLIN_PROGRESS_TRACKER.md` (companion file) to see exactly where this slots into your full journey and what's unlocked next.
-
 🏆 **Welcome to the Order of Async. The Kingdom is yours.**

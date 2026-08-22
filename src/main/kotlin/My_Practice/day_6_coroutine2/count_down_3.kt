@@ -8,7 +8,7 @@ suspend fun fetchWithGuard(): String {
     return withTimeoutOrNull(2000) {
         delay(3000)
         "Data arrived"
-    } ?: "⏱️ Gave up — took too long"
+    } ?: "Gave up — took too long"
 }
 
 fun main() = runBlocking {
