@@ -1,6 +1,6 @@
 # 📱 Day 9 — Android: Activities & Lifecycle
 
-**Date:** August 29, 2026
+**Date:** September 3, 2026
 
 ---
 
