@@ -166,7 +166,7 @@ All 4 checked → **Day 12 done.**
 2. `suspend fun insert()`, `@Query("SELECT * FROM tasks")` — real read/write
 3. Build: reconnect Day 7's todo app to Room instead of `mutableStateListOf` — **tasks survive closing the app**
 
-Say **"Day 13"** when ready.
+Move **"Day 13"** when ready.
 
 ---
 
