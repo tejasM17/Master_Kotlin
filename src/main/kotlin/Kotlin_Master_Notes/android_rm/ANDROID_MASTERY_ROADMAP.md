@@ -26,7 +26,7 @@ Every "Day" file I create for you will follow this same honest structure: **veri
 
 ```
 PHASE 1: JETPACK COMPOSE FUNDAMENTALS (Week 1-2, ~20 hrs)
-├─ Day 1: First project + Composable functions + Text        ✅ TODAY
+├─ Day 1: First project + Composable functions + Text        
 ├─ Day 2: Modifiers + Column/Row/Box layouts
 ├─ Day 3: Buttons, click handling, basic interactivity
 ├─ Day 4: State — remember, mutableStateOf
@@ -40,7 +40,7 @@ PHASE 2: ANDROID SDK BASICS (Week 3, ~15 hrs)
 └─ Services & WorkManager (background work)
 
 PHASE 3: DATABASE & NETWORKING (Week 4-5, ~25 hrs)
-├─ Room Database (Entity, DAO, CRUD)
+├─ Room Database (Entity, DAO, CRUD)    ✅ TODAY
 └─ Retrofit (REST API calls, error handling, auth)
 
 PHASE 4: ARCHITECTURE (Week 6, ~15 hrs)
