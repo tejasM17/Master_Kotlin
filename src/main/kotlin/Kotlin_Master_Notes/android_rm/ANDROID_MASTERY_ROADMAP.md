@@ -40,8 +40,8 @@ PHASE 2: ANDROID SDK BASICS (Week 3, ~15 hrs)
 └─ Services & WorkManager (background work)
 
 PHASE 3: DATABASE & NETWORKING (Week 4-5, ~25 hrs)
-├─ Room Database (Entity, DAO, CRUD)    ✅ TODAY
-└─ Retrofit (REST API calls, error handling, auth)
+├─ Room Database (Entity, DAO, CRUD)    
+└─ Retrofit (REST API calls, error handling, auth) ✅ TODAY
 
 PHASE 4: ARCHITECTURE (Week 6, ~15 hrs)
 ├─ MVVM (Model-View-ViewModel)
