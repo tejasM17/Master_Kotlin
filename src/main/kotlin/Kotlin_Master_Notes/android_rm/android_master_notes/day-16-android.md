@@ -1,6 +1,6 @@
 # 📱 Day 16 — Android: MVVM, From a Brand New Project
 
-**Date:** September 12, 2026
+**Date:** September 20, 2026
 
 > 💬 *"The secret of getting ahead is getting started."* — Mark Twain
 
