@@ -1,6 +1,6 @@
 # 📱 Day 18 — Android: Capstone Planning (Week 7 Begins)
 
-**Date:** September 22, 2026
+**Date:** September 27, 2026
 
 > 💬 *"By failing to prepare, you are preparing to fail."* — Benjamin Franklin
 
