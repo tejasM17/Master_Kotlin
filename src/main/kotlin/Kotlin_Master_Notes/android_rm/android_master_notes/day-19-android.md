@@ -208,7 +208,7 @@ All 4 checked → **Day 19 done.**
 2. A `isFavorite: Boolean` field added to `Quote`
 3. Build: a ❤️ button on the detail screen that toggles and persists
 
-Say **"Day 20"** when ready.
+Move **"Day 20"** when ready.
 
 ---
 
